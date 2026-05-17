@@ -1,8 +1,8 @@
 # lecture 1
 ## urls
-- (book on agent design patterns)[https://irp.cdn-website.com/ca79032a/files/uploaded/Agentic-Design-Patterns.pdf]
-- (repo agent design patterns)[https://github.com/kweinmeister/agent-design-patterns]
-- (course on a2a protocol)[https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol]
+- [book on agent design patterns](https://irp.cdn-website.com/ca79032a/files/uploaded/Agentic-Design-Patterns.pdf)
+- [repo agent design patterns](https://github.com/kweinmeister/agent-design-patterns)
+- [course on a2a protocol](https://www.deeplearning.ai/courses/a2a-the-agent2agent-protocol)
 
 ## A2A protocol:
 how agents can communicate with other agents

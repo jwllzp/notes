@@ -27,7 +27,7 @@ A2A: Agent2Agent protocol -> make sure agents can speak to each other.
 
 
 ### flujose de agentes
-(modeling with graphs with ADK)[https://adk.dev/workflows/#build-processes-with-graphs]
+[modeling with graphs with ADK](https://adk.dev/workflows/#build-processes-with-graphs)
 - secuencial
 ```
 judge -> writer -> orchestrator
